@@ -1,0 +1,4 @@
+# Laptop-side dependencies for tools/view.py
+pyserial>=3.5
+opencv-python>=4.10
+numpy>=1.26
